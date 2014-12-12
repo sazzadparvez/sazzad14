@@ -1,0 +1,33 @@
+*{margin:0;padding:0;}
+body{font-family:arial;font-size:16px;line-height:22px;color:#666;}
+.fix{overflow:hidden;}
+h2,h3,h4,p{color:#DED9D6;}
+.main{width:1200px;margin:0 auto;border:2px solid;height: 1075px}
+.parvez1{height:393px; background:url(image/s2.png);no-repeat}
+.parvez1 img{margin-left: 173px;
+width: 1015px}
+.parvez2{margin-left: 122px;
+margin-top: 11px;}
+.parvez3{background:#525252}
+.sazzad1{margin-left: 121px;
+margin-top: 16px;}
+.sazzad2{margin-left: 140px;
+margin-top: 10px;
+border: 2px solid;
+width: 180px;
+padding: 8px 29px;background-color:#4999AF;color:#4999AF;}
+.sazzad3{margin-left: 526px;
+margin-top: -74px}
+.sazzad4{margin-left: 500px;
+margin-top: 9px;}
+.sazzad5{margin-left: 508px;}
+.sazzad6{margin-left: 833px;
+margin-top: -73px;}
+.sazzad7{margin-left: 850px;}
+.parvez4{background-color:#525252;padding: 15px;border-top: 1px solid;}
+.parvez4 p{}
+.parvez4 h6{position: relative;
+left: 215px;
+top: -20px;
+font-size: 14px;
+color: #FFF;}
